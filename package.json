@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter mocha-allure-reporter"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^131.0.4",
+    "selenium-webdriver": "^4.27.0"
+  }
+}
